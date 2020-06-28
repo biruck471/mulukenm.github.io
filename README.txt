@@ -1,7 +1,7 @@
-# Muluken Muche's website
-## Karl Broman&rsquo;s website
+## Muluken Muche's website
 
-See [kbroman.org](https://kbroman.org).
+
+See [kbroman.org](https://mulukenmuche.org).
 
 ---
 
