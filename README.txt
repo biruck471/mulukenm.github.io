@@ -1,11 +1,20 @@
+
 ## Muluken Muche's website
 
 
-See [kbroman.org](https://mulukenmuche.org).
+See [mulukenmuche.org](https://mulukenmuche.org).
 
 ---
 
-My parts of this web site are licensed under
-[CC BY](https://creativecommons.org/licenses/by/3.0/).
+Credits:
 
-[![CC BY](https://i.creativecommons.org/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/3.0/)
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
