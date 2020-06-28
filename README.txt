@@ -1,5 +1,5 @@
 
-## Muluken Muche&rsquo;s website
+## Muluken Muche's website
 
 
 See [mulukenmuche.org](https://mulukenmuche.org).
